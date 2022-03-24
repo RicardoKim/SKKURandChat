@@ -20,5 +20,6 @@
 ### 프로그램 실행 방법
 ```shell
 cd https://github.com/RicardoKim/SKKURandChat.git
+cd SKKURandChat
 npm run dev
 ```
